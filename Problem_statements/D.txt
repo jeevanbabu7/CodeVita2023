@@ -1,13 +1,18 @@
 
 									D.Clash Of Clans
 Problem Description
-In Clash of Clans, you as a village chief is gearing up for a raid on an enemy village. The success of this mission depends on assembling the most potent raiding army by selecting troops from various categories. Each troop type has distinct strengths and weaknesses, and your goal is to create a formidable army that maximizes overall damage.
+In Clash of Clans, you as a village chief is gearing up for a raid on an enemy village.
+The success of this mission depends on assembling the most potent raiding army by selecting troops from various categories. 
+Each troop type has distinct strengths and weaknesses, and your goal is to create a formidable army that maximizes overall damage.
 
-To build an army you first need to train them in the "Barracks" which has some capacity (B). Each troop has some size (S) it occupies in the barrack that trains and increases some amount of damage per second (D) for each troop.
+To build an army you first need to train them in the "Barracks" which has some capacity (B). 
+Each troop has some size (S) it occupies in the barrack that trains and increases some amount 
+of damage per second (D) for each troop.
 
 There are various troops (for e.g. Barbarian, Archer, Giant, Goblin and so on) which belong to some category C (for e.g. Elixir Troop, Temporary Troop, Super Troops and so on).
 
-To train them you decided to have a versatile army where you select at most one or no troops from each category of the troops such that it has maximum damage per second and the troops fit within the barrack size for training.
+To train them you decided to have a versatile army where you select at most one or no troops from each category of the troops 
+such that it has maximum damage per second and the troops fit within the barrack size for training.
 
 Constraints
 Length of S = D = C
